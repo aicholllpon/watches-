@@ -1,0 +1,13 @@
+.admin-list {
+    flex-wrap: wrap;
+    margin-top: 40px;
+    border: 1px solid grey;
+    border-right: 1px solid grey;
+    background-color:  rgb(255, 255, 255);
+    box-shadow: 4px 4px 4px 4px rgb(185, 183, 183);
+    margin-top: -20px;
+}
+
+ul{
+    list-style-type: none;
+}

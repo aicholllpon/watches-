@@ -1,0 +1,29 @@
+@import url('https://fonts.googleapis.com/css2?family=Nunito:wght@300&family=Playfair+Display&display=swap');
+
+.logo{
+    width: 15%;
+    height: auto;
+    margin-left: 43%;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    cursor: pointer;
+}
+
+.top{
+    background-color: black;
+    width: 100%;
+    height: 30px;
+}
+
+.navbar{
+    text-transform: uppercase;
+    font-family: 'Nunito', sans-serif;
+    font-size: 15px;
+    border-top: 1px solid lightgrey;
+    border-bottom: 1px solid lightgrey;
+    margin-bottom: 20px;
+}
+
+.first_nav{
+    font-size: 15px;
+}

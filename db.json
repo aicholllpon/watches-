@@ -1,0 +1,142 @@
+{
+  "products": [
+    {
+      "image": "https://p.w3layouts.com/demos/luxury_watches/web/images/p-2.png",
+      "title": "Ulysse Nardin",
+      "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.",
+      "price": "4601",
+      "category": "Man",
+      "brand": "Ulysse",
+      "availability": "In stock",
+      "code": "1",
+      "comments": [
+        {
+          "nickname": "Александр",
+          "text": "Часы как часы, время показывает, и ладно."
+        },
+        {
+          "nickname": "Мирбек",
+          "text": "Нужно сайт доработать"
+        },
+        {
+          "nickname": "Кубат",
+          "text": "А мне нравится"
+        },
+        {
+          "nickname": "Aidai",
+          "text": "В минус уходит. Можно бесплатно купить"
+        }
+      ],
+      "id": 1
+    },
+    {
+      "image": "https://p.w3layouts.com/demos/luxury_watches/web/images/p-3.png",
+      "title": "Maurice Lacroix",
+      "description": "Точность этих противоударных часов оценят пунктуальные мужчины, которые живут активной жизнью. G-Steel. Питание от солнечной энергии Tough Solar - солнечные батарейки большой мощности, индикатор заряда батареи. Функция автоматического сохранения энергии. Время работы аккумулятора без подзарядки приблизительно 6 месяцев, при включенной функции сохранения энергии приблизительно 20 месяцев. Противоударный корпус защищает механизм от ударов и вибрации. Ударопрочная конструкция Carbon Core Guard объединяет корпус и заднюю крышку в единый карбоновый моноблок. Двойная подcветка: лицо и циферблат подсвечиваются ярким светодиодом при недостаточном освещении, во время поворота запястья подсветка включается автоматически.",
+      "price": "7400",
+      "category": "Man",
+      "brand": "SuperPuper",
+      "availability": "Available",
+      "code": "3",
+      "comments": [],
+      "id": 3
+    },
+    {
+      "image": "https://p.w3layouts.com/demos/luxury_watches/web/images/p-4.png",
+      "title": "Baume & Mercier.",
+      "description": "Стильный дизайн часов создает идеальный аксессуар на каждый день для современного мужчины. New England. В механизме 29 камней. Сквозь прозрачное окошко на циферблате можно наблюдать за работой механизма часов. Запас хода 40 часов. Прозрачная задняя крышка. Ремешок с раскладывающейся застёжкой.",
+      "price": "6499",
+      "category": "Woman",
+      "brand": "Aicholpon",
+      "availability": "Available",
+      "code": "4",
+      "comments": [
+        {
+          "nickname": "Эмир",
+          "text": "Четкие часы! "
+        },
+        {
+          "nickname": "Мирбек",
+          "text": "Да не, часы нужно доработать"
+        },
+        {
+          "nickname": "Александр",
+          "text": "Часы есть часы !"
+        }
+      ],
+      "id": 4
+    },
+    {
+      "image": "https://p.w3layouts.com/demos/luxury_watches/web/images/p-5.png",
+      "title": "Arnold & Son.",
+      "description": "Благодаря этим часам вы сможете проявить себя и с легкостью продемонстрировать окружающим свое изумительное чувство вкуса. The Charles. Скелетонизированные часы. В механизме 22 камня. Часовой механизм декорирован «женевскими волнами» (Cotes de Geneve). Завинчивающаяся прозрачная задняя крышка.Браслет с тройной раскладывающейся застежкой.",
+      "price": "6555",
+      "category": "Man",
+      "brand": "Meder",
+      "availability": "Available",
+      "code": "5",
+      "comments": [],
+      "id": 5
+    },
+    {
+      "image": "https://p.w3layouts.com/demos/luxury_watches/web/images/p-6.png",
+      "title": "Baume & Mercier",
+      "description": "Стильный дизайн этого безупречного аксессуара элегантно завершит ваш новый образ. Время для роскошных женщин. Ritz. Часы-хронограф с секундомером. Браслет с раскладывающейся застежкой. Артикул/модель Michael Kors MK6428 Страна США Тип механизма кварцевый Корпус сталь Циферблат белый Браслет стальной Камень-вставка циферблат и корпус украшены ",
+      "price": "7400",
+      "category": "Man",
+      "brand": "Omurlan",
+      "availability": "Available",
+      "code": "6",
+      "comments": [],
+      "id": 6
+    },
+    {
+      "image": "rtgrr",
+      "title": "tgrtgrt",
+      "description": "grtg",
+      "price": "rtgrt",
+      "category": "Man",
+      "brand": "grtg",
+      "availability": "Available",
+      "code": "rtg",
+      "comments": [],
+      "id": 7
+    },
+    {
+      "image": "ываыа",
+      "title": "ываыа",
+      "description": "Лучшие часы на свете. Отвечаю !",
+      "price": "s",
+      "category": "Man",
+      "brand": "SuperPuper",
+      "availability": "Available",
+      "code": "3",
+      "comments": [],
+      "id": 8
+    },
+    {
+      "image": "https://p.w3layouts.com/demos/luxury_watches/web/images/p-5.png",
+      "title": "Chasy",
+      "description": "Лучшие часы на свете. Отвечаю !",
+      "price": "5$",
+      "category": "Man",
+      "brand": "SuperPuper",
+      "availability": "Available",
+      "code": "7",
+      "comments": [],
+      "id": 9
+    },
+    {
+      "image": "https://p.w3layouts.com/demos/luxury_watches/web/images/p-4.png",
+      "title": "Chasy2",
+      "description": "Лучшие часы на свете 2. Отвечаю !",
+      "price": "6$",
+      "category": "Man",
+      "brand": "SuperPuper",
+      "availability": "Not available",
+      "code": "7",
+      "comments": [],
+      "id": 10
+    }
+  ]
+}

@@ -1,0 +1,35 @@
+.allWatch {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    margin-top: 40px;
+} 
+
+.watch-block {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin: 5px;
+    transition: all 1s;
+    border: 1px solid rgb(214, 214, 214);
+    cursor: pointer;
+
+}
+
+.watch-block:hover {
+    border: 1px solid rgb(131, 193, 245);
+}
+
+.watch-block:hover .image {
+    transform: scale(1.02);
+}
+
+.title {
+    text-align: start;
+    text-transform: capitalize;
+    font-weight: bold;
+}
+
+.image {
+    transition: all 0.5s;
+}

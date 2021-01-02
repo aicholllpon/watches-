@@ -1,0 +1,81 @@
+@import url('https://fonts.googleapis.com/css2?family=Nunito:wght@300&family=Playfair+Display&display=swap');
+
+.popular{
+    display: flex;
+    justify-content: center;
+    font-size: 27px;
+    margin-bottom: 50px;
+    text-transform: uppercase;
+    font-family: playfair;
+    padding-top: 100px;
+    padding-bottom: 10px;
+    font-family: 'Nunito', sans-serif;
+}
+
+.popular::before{
+    content:'';
+    display:block;
+    background:#d1cf61;
+    transition: 0.2s;
+    width: 5%;
+    margin-top: 15px;
+    margin-right: 30px;
+    height: 1px;
+}
+
+.popular::after{
+    content:'';
+    display:block;
+    background:#d1cf61;
+    transition: 0.2s;
+    width: 5%;
+    margin-top: 15px;
+    margin-left: 30px;
+    height: 1px;
+}
+ 
+.watches{
+    display: flex;
+    flex-wrap: wrap;
+    padding-bottom: 70px;
+}
+.watches-main{
+   background: url("https://7cf51efe90c6cc390a67-918050ae9fcfb79c59b32e648ff87ea6.ssl.cf3.rackcdn.com/homepage/p-brands/p-brands-bg-generic-3.jpg");
+}
+
+.first, .second, .third, .fourth {
+    display: flex;
+    flex-direction: column;
+}
+
+.watches{
+    display: flex;
+    justify-content: space-between;
+}
+
+.first img:first-child,
+.second img:first-child,
+.third img:first-child,
+.fourth img:first-child {
+    transition: all 1s;
+    cursor: pointer;
+}
+
+
+.first img:first-child:hover,
+.second img:first-child:hover,
+.third img:first-child:hover,
+.fourth img:first-child:hover {
+    transform: scale(1.1);
+}
+
+@media screen and (max-width: 414px){
+    .first,.second,.third,.fourth{
+        margin: auto;
+    }
+}
+@media screen and (max-width: 375px){
+    .first,.second,.third,.fourth{
+        margin: auto;
+    }
+}

@@ -1,0 +1,46 @@
+@import url('https://fonts.googleapis.com/css2?family=Nunito:wght@300&family=Playfair+Display&display=swap');
+
+.background {
+    background: url(https://www.shoptv.com/img/product/resized/001/434/635/catl/omega-speedmaster-professional-moonwatch_1500.jpg?k=990975d6&pid=1434635&s=catl&sn=shoptv);
+    height: 100vh;
+}
+
+.addProduct {
+    margin: 0 auto;
+    text-transform: uppercase;
+}
+
+.inputs {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    font-family: 'Nunito', sans-serif;
+    background-color: white;
+}
+
+.inputs input {
+    display: block;
+    margin-top: 10px;
+    border: 1px solid rgb(185, 185, 185);
+    padding: 5px;
+}
+
+.inputs button {
+    margin-top: 10px;
+    width: 50%;
+    background-color: rgb(0, 0, 0);
+    color: white;
+    border: 1px solid gray;
+    text-transform: uppercase;
+    margin-top: 30px;
+}
+
+.btn:hover{
+    color: lightslategrey;
+}
+
+
+
+
+
